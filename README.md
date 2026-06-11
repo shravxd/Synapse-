@@ -2,6 +2,8 @@
 
 *A modern influencer marketing platform that connects brands with digital creators across India, enabling seamless campaign discovery, collaboration, and management through a unified interface.*
 
+![Dashboard](assets/Synapse.png)
+
 ## 🛠️ Status
 **Frontend Prototype (UI Shell)** built using mock data, ready for backend integration.
 
